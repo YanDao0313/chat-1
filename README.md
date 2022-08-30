@@ -58,6 +58,8 @@ git clone git@github.com:CCZX/wechat.git
 
 **需要注意的是这一步需要在启动服务端之前执行。不然会出现不可预料的错误**
 
+> Tip: 已经修了
+
 ### 2、启动MongoDB数据库
 
 ```bash
